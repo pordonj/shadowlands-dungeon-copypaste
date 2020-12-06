@@ -13,7 +13,7 @@ Mythic: `Kill Accursed > Virulent > Decapitator. At low health, Virulent causes 
 ### Trash
 `Gasbags point at someone and AOE to front and back, move to sides.`
 ### Boss
-Pre-Mythic: `Go through the gaps in the meathook walls when they move across. Stay out of the AOEs mobs leave when they die. On Mythic he hooks you in and you run.`
+Pre-Mythic: `Go through the gaps in the meathook walls when they move across. Stay out of the AOEs mobs leave when they die.`
 
 Mythic: `Run away when he hooks you. Go through the gaps in the meathook walls when they move across. Stay out of the AOEs mobs leave when they die.`
 
@@ -31,6 +31,6 @@ Mythic: `Run away when he hooks you. Go through the gaps in the meathook walls w
 
 ## Mordretha, the Endless Empress
 ### Boss
-Pre-Mythic: `Dodge Dark Devastation beam. Spread with Manifest Death but not too far. Run away from Grasping Rift. On Mythic, after 50% dodge AOEs and ghost riders.`
+Pre-Mythic: `Dodge Dark Devastation beam. Spread with Manifest Death but not too far. Run away from Grasping Rift.`
 
 Mythic: `Dodge Dark Devastation beam. Spread with Manifest Death but you drop an add so stay close without overlapping. Run away from Grasping Rift. After 50%, dodge AOEs and ghost riders.`
