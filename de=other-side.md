@@ -24,7 +24,7 @@ Mythic: `For Millhouse, intercept his beams to get a damage buff, swap if the da
 `Keep jumping when you have Shimmerdust debuff or you will fall asleep.`
 
 ### Boss
-`Boss leaves aoe "traps" on the ground that throw you in the air. If the boss gives you the bomb, go into a trap 2s before you explode. When the boss does his big bomb, EVERYONE goes in a trap 2s before it goes off.`
+`Boss leaves aoe "traps" on the ground that throw you in the air. If the boss gives you the bomb, go into a trap 2s before you explode. When the boss does his big bomb, EVERYONE goes in a trap 2s before it goes off. Also dodge beams!`
 
 ## Mueh'zala
 1: `Big boss phase is all about surviving while DPSing. Dodge the slam dance: green hits front, left arm hits left, right arm hits right. When DOT is finished or dispelled, you drop an AoE. Try not to drop near middle.`
