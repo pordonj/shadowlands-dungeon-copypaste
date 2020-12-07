@@ -6,7 +6,7 @@
 `To summon the boss we need to kill 3 Shards of Halkias. When fighting Shards you need to move as soon as Trash finishes. Stun Houndmasters and interrupt Collectors.`
 
 ### Boss
-Pre-Mythic: `Always stay in the red circle. Boss alternates between putting AOEs at tank and other players, try to keep them together. After 4, boss shoots out beams to dodge, beams can switch directions.`
+Pre-Mythic: `Boss alternates between putting AOEs at tank and other players, try to keep them together. After 4, boss shoots out beams to dodge, beams can switch directions.`
 
 Mythic: `Always stay in the red circle. Boss alternates between putting AOEs at tank and other players, try to keep them together. After 4, boss shoots out beams to dodge, beams can switch directions.`
 
@@ -22,7 +22,7 @@ Mythic: `Always stay in the red circle. Boss alternates between putting AOEs at 
 
 ## Lord Chamberlain
 ### Trash
-`Kill Tormented Souls so we can kill Sigar. Be ready to kite fixating adds.`
+`Kill Tormented Souls so we can kill Sigar. Sigar can also be LOSed from the souls behind the walls in the back. Be ready to kite fixating adds.`
 
 ### Boss
 `Boss has a frontal cone and ramping DOT. Boss tosses statues that he links to, to the direction he is facing. At 70/40%, dodge him pulling in the statues, dodge him pushing out the statues, then intercept the beams.`
