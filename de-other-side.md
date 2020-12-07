@@ -1,7 +1,7 @@
 # De Other Side
 ## Ring Trash
 
-`Dodge Erupting Darkness from Death Speakers. Dodge masks on Eranged Spirits and just kill.`
+`Dodge Erupting Darkness from Death Speakers. Dodge masks on Enraged Spirits and just kill.`
 
 ## Hakkar
 ### Trash
