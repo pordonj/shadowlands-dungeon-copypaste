@@ -22,13 +22,13 @@ Mythic: `Dodge the anima orbs. The person with Castigate should stay away from o
 `We have to clear all the trash before next boss, careful not to pull boss.`
 
 ### Boss
-Pre-Mythic: `When boss casts Rite, each player touch a radiance zone. After Rite, dodge swirlies as you will already be hurt.`
+Pre-Mythic: `When boss casts Rite, each player touch the radiance zone. After Rite, dodge swirlies as you will already be hurt.`
 
 Mythic: `When boss casts Rite, each player should collect 3 of the 15 Fragments around the area. After Rite, dodge swirlies as you will already be hurt.`
 
 ## General Kaal
 ### Trash
-`Someone has to carry the Essence. Work through the gauntlet. When boss appears in the gauntlet, use the Extra Action from the Essence when Gloom Squall is cast.`
+`Someone has to carry the Essence. Work through the gauntlet. When boss appears in the gauntlet, use the Extra Action from the Essence if Gloom Squall is cast.`
 
 ### Boss
-`Players marked for WIcked Rush should separate from group and each other. Dodge Piercing Blur beams from images - first ones to light up fire first. Use the Essence's Extra Action during Gloom Squall to reduce damage and not get blown off.`
+`Players marked for Wicked Rush should separate from group and each other. Dodge Piercing Blur beams from images - first ones to light up fire first. Use the Essence's Extra Action during Gloom Squall to reduce damage and not get blown off.`
